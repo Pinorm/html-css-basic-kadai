@@ -58,14 +58,14 @@ a{
 }
 
 a:visited{
-  color:rgb(255, 255, 255);
+  color:rgb(193,234,251);
 }
 
 a:hover{
-  color:rgb(245, 178, 168);
+  color:rgb(255,255,255);
 }
 
-@media (max-width:768px){
+@media(max-width:768px){
   h2{
     font-size:30px;
   }
@@ -75,7 +75,7 @@ a:hover{
   }
 
   #parent{
-    dispaly:flex;
-    flex-direction:colum;
+    display:flex;
+    flex-direction:column;
   }
 }
