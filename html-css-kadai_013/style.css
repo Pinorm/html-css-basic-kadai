@@ -89,7 +89,7 @@ PC用のスタイル
     height:100%;
     width:100%;
     display:none;
-    Z-index:100%;
+    Z-index:100;
   }
   #nav-sp ul{
     padding-left:0;
